@@ -292,11 +292,11 @@ const questions = [
   {
     "question": "The indications of a VOR in an aircraft tracking towards a VOR are 075\u00b0 (M) TO and deviation indicator central. A co-located NDB shows 012\u00b0 relative. What are the drift and heading in \u00b0(M)?",
     "options": [
-      "125; 087",
-      "122; 063",
-      "125; 063",
-      "122; 087"
+      "12S; 087",
+      "12P; 063",
+      "12S; 063",
+      "12P; 087"
     ],
-    "correct": 3
+    "correct": 2
   }
 ];
